@@ -1,0 +1,23 @@
+body {
+  background-color: wheat;
+}
+h1 {
+  text-align: center;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
+
+#button-style {
+  background-color: darksalmon;
+  font-size: large;
+  width: 152.09px;
+}
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
